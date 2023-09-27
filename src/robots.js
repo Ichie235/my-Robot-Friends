@@ -35,4 +35,16 @@ export const robots = [
         username: "kelech",
         email:"ken@gmail.com"
     },
+    {
+        id: 7,
+        name: "tessy chelechi",
+        username: "tessy",
+        email:"tessy@gmail.com"
+    },
+    {
+        id: 8,
+        name: "ify chukwu",
+        username: "ify",
+        email:"ify@gmail.com"
+    },
 ]
